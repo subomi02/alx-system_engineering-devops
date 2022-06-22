@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la . ../al-system_engineering /boot
+ls -la . .. /boot
