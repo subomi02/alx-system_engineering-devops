@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# This script is displaying "Holberton School" 10 times
+while IFS= read -r line; do
+    echo "$line" | cut -d':' -f1 -f4 -f7
+done < /etc/passwd
