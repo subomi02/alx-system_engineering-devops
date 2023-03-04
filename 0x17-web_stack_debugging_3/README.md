@@ -1,0 +1,1 @@
+Web stack debugging, we are to find why apache returns error 500 ,correct it and automate it using puppet
